@@ -1,0 +1,28 @@
+body,
+htlm {
+  min-width: max-content;
+  height: 100%;
+}
+
+.play-button{
+  background-color: #008000;
+  color: #ffffff
+}
+.stop-button{
+  background-color: #ff0000;
+  color: #ffffff
+
+}
+.clear-button{
+
+  background-color: #054f77;
+  color: #ffffff
+}
+
+.div_pos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
